@@ -1,0 +1,53 @@
+.header {
+    background-color: rgb(0, 255, 128);
+    }
+    
+    .nav-link{
+        color: aliceblue !important;
+    }
+    
+    .navbar-brand{
+        color: aliceblue !important;
+        font-weight: bold !important;  
+    }
+
+    .kontak-form{
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 10px;
+        text-align: center;
+    }
+
+    .kontak-form h1{
+        color: rgb(12, 12, 12);
+        font-size: 20px;
+        padding: 10px;
+
+    }
+
+    .kontak-form input {
+        width: 1300px;
+        border-radius: 5px;
+        border-color: #b6b2b2;
+              
+    }
+    
+    
+    .kontak-form textarea {
+        width: 1300px;
+        height: 100px;
+        border-radius: 5px;
+        border-color: #b6b2b2;
+
+    }
+
+    .kontak-form button{
+       background-color: #26d834;
+       border: #fff;
+      border-radius: 20px;
+       
+
+    }
+
+   
+    
